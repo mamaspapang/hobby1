@@ -1,6 +1,0 @@
-User-agent: *
-
-Allow: /
-Disallow:
-
-Sitemap: https://itsmyhobby.surge.sh/sitemap.xml
