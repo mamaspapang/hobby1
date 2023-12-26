@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 Disallow:
 
-Sitemap: https://itsmyhobby.surge.sh/sitemap.xml
+Sitemap: https://mamaspapang.github.io/hobby1/sitemap.xml
